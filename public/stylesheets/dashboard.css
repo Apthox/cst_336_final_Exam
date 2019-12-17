@@ -1,0 +1,68 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+#body-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
+#invite-container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: #EEE;
+}
+
+#invite-inside-container {
+    display: flex;
+    justify-content: center;
+}
+
+#invite-code {
+    padding: 10px;
+    border: 1px solid black;
+    width: 60%;
+}
+
+#invite-inside-container > button {
+    border-radius: 0;
+}
+
+.tcol {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trow {
+    display: flex;
+}
+
+.modal-title-container {
+    width: 100%;
+    display: flex;
+  }
+  
+  .modal-header {
+    flex-direction: column !important;
+  }
+  
+  .modal-footer {
+    justify-content: space-between;
+  }
+
+  .modal-row {
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 10px;
+  }
+
+  .form-control {
+      width: auto !important;
+  }

@@ -1,0 +1,22 @@
+.done {
+    background-color: greenyellow;
+}
+  
+.semi {
+    background-color: yellow;
+}
+  
+.fail {
+    background-color: orangered;
+}
+
+body {
+    padding: 100px;
+    background-color: #EEE;
+}
+
+#rubric {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 5px;
+    background-color: white;
+}
