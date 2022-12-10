@@ -9,7 +9,7 @@
     "bcrypt": "^3.0.7",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "express-session": "^1.17.0",
     "googleapis": "^46.0.0",
     "hbs": "~4.0.4",
